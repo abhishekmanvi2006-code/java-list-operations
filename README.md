@@ -25,3 +25,8 @@ Output Link:https://github.com/user-attachments/assets/110f4a64-6cf3-44ec-8ae0-b
 Output Link:https://github.com/user-attachments/assets/d435d75b-6891-4573-ab8c-95f222acc7a0
 
 ---
+
+## 1b (5) Delete nth element using index
+Output Link:https://github.com/user-attachments/assets/e2c247dd-71bb-4402-851d-60724414270d
+
+---
