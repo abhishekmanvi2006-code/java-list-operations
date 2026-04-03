@@ -30,3 +30,8 @@ Output Link:https://github.com/user-attachments/assets/d435d75b-6891-4573-ab8c-9
 Output Link:https://github.com/user-attachments/assets/e2c247dd-71bb-4402-851d-60724414270d
 
 ---
+
+## 1b (c)  LinkedListIteratorExample
+Output Link - https://github.com/user-attachments/assets/d4608271-19c8-4650-b419-7249b493945c
+---
+
