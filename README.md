@@ -47,11 +47,6 @@ Output Link - https://github.com/user-attachments/assets/484a1630-b207-4b11-aa61
 ---
 
 
-## 1c (3)  LinkedListAddLastExample
-Output Link - https://github.com/user-attachments/assets/484a1630-b207-4b11-aa61-0910b982ab66
-
----
-
 ## 1c (4)  LinkedListDisplayPositions
 Output Link - https://github.com/user-attachments/assets/1fee10b6-de65-4978-8f27-6899158d8941
 
