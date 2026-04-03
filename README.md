@@ -57,5 +57,16 @@ Output Link - https://github.com/user-attachments/assets/bebf19be-47b9-4956-9190
 
 ---
 
+## 2a  StringOperationsDemo
+Output Link - https://github.com/user-attachments/assets/d6c5d2af-3e14-42d6-8967-5c2e099eb474
+
+---
+
+## 2b  StringPerformanceTest
+Output Link - https://github.com/user-attachments/assets/5026d3a8-ec81-462e-b5d1-ed8f0beec983
+
+---
+
+
 
 
