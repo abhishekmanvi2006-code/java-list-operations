@@ -73,6 +73,11 @@ Output Link - https://github.com/user-attachments/assets/cf138727-d30f-49af-a479
 
 ---
 
+## 3b (1) NullOrEmptyCheck 
+Output Link - https://github.com/user-attachments/assets/5911fc81-aa55-4819-a7c5-08eb7fe439d3
+
+---
+
 
 
 
