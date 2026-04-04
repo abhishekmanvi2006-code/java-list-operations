@@ -98,6 +98,30 @@ Output Link - https://github.com/user-attachments/assets/184bdfb1-c11e-415f-8674
 
 ---
 
+## 3c (6) CapitalizeWordsProgram
+Output Link - https://github.com/user-attachments/assets/36a1edd7-8ec2-444f-b564-4b441a5fcd99
+
+---
+
+## 3c (7) TruncateStringProgram
+Output Link - https://github.com/user-attachments/assets/b07c01d8-395b-49a5-a2d0-8172590430d2
+
+---
+
+## 3c (8) NumericCheckProgram
+Output Link - https://github.com/user-attachments/assets/33ea729c-7436-49a2-b242-1654515f1b0c
+
+---
+
+## 3c (9) RandomStringProgram 
+Output Link - https://github.com/user-attachments/assets/7b318d97-51f6-43a0-80c0-51a4d6cfe7b3
+
+---
+
+## 3c (10) WordCountProgram 
+Output Link - https://github.com/user-attachments/assets/1f1a85b9-4191-44cf-9ff2-e4ab33245b71
+
+---
 
 
 
