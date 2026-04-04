@@ -78,6 +78,26 @@ Output Link - https://github.com/user-attachments/assets/5911fc81-aa55-4819-a7c5
 
 ---
 
+## 3b (2) CountSubstringOccurrences
+Output Link - https://github.com/user-attachments/assets/f6dc5977-e5d4-47c2-9b51-16e8ec918023
+
+---
+
+## 3b (3) ReverseStringProgram
+Output Link - https://github.com/user-attachments/assets/eb332844-3109-464f-acbf-90c17ee9b9a6
+
+---
+
+## 3b (4) PalindromeCheck
+Output Link - https://github.com/user-attachments/assets/35fbf5d5-883e-48fd-a469-bc34d106c921
+
+---
+
+## 3b (5) RemoveWhitespaceProgram
+Output Link - https://github.com/user-attachments/assets/184bdfb1-c11e-415f-8674-32632607b1ec
+
+---
+
 
 
 
