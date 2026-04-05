@@ -158,5 +158,10 @@ Output Link - https://github.com/user-attachments/assets/0660ce2d-ba2b-42a1-b5d3
 
 ---
 
+## 6a-factorial-servlet
+Output Link for index.html- https://github.com/user-attachments/assets/ea1a7b1f-8676-4842-a353-14bcc5ed57b4
+Output Link for FactorialServlet.java- https://github.com/user-attachments/assets/cefe395e-bcbf-4a91-be3e-290393a9c63d
+
+---
 
 
