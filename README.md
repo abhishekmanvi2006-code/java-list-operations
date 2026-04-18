@@ -166,7 +166,13 @@ Output Link for FactorialServlet.java- https://github.com/user-attachments/asset
 
 ## 6b-cookiesession
 Output Link for index.html- https://github.com/user-attachments/assets/6225dee7-023d-48c0-af83-0849e9da6597
-Output Link for PrimeServlet.java- https://github.com/user-attachments/assets/32c7d98b-a3cd-4e83-a5fb-c6a2dfcc511f
+Output Link for cookieServlet.java- https://github.com/user-attachments/assets/32c7d98b-a3cd-4e83-a5fb-c6a2dfcc511f
+
+---
+
+## 6c-prime numbers
+Output Link for index.html- https://github.com/user-attachments/assets/2a55c8d3-4e48-4f79-bab0-408a37f25645
+Output Link for PrimeServlet.java- https://github.com/user-attachments/assets/4c982955-1134-40cd-8502-3d6804102b22
 
 ---
 
