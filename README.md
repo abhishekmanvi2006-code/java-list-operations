@@ -176,4 +176,9 @@ Output Link for PrimeServlet.java- https://github.com/user-attachments/assets/4c
 
 ---
 
+## 7a-prime numbers
+Output Link for index.html- https://github.com/user-attachments/assets/f79b131b-69b2-4c82-bdd0-c1d0d730ff9e
+Output Link for session.jsp- https://github.com/user-attachments/assets/aaddab34-0486-41da-8a4c-5bea59ce85c2
+
+---
 
