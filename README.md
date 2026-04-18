@@ -182,3 +182,10 @@ Output Link for session.jsp- https://github.com/user-attachments/assets/aaddab34
 
 ---
 
+## 7b-cookie management using jsp
+Output Link for index.html- https://github.com/user-attachments/assets/e97633c3-6840-4a79-88c6-94c385068d8d
+
+Output Link for showCookie.jsp- https://github.com/user-attachments/assets/72e4eb46-2c39-48b2-827a-abfc981e41bc
+
+---
+
