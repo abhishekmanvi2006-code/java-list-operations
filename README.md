@@ -195,3 +195,10 @@ Output Link for cookieservlet-https://github.com/user-attachments/assets/bf6fad6
 
 ---
 
+## 9a-servlet server management
+Output Link for index.html- https://github.com/user-attachments/assets/4a5963c0-0136-401a-bcc8-6b86b45b738b
+Output Link for servler server-https://github.com/user-attachments/assets/2c0b355d-4526-4f2c-8985-93998c284d46
+
+---
+
+
