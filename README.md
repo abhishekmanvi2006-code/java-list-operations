@@ -247,3 +247,17 @@ Output Link -https://github.com/user-attachments/assets/275ae769-0568-4e9b-8583-
 Output Link -https://github.com/user-attachments/assets/dd071f5b-f74c-45d4-b06f-a1c367cc92da
 
 ---
+
+## 12b-coffeefiltter
+Output Link -https://github.com/user-attachments/assets/ad8cf134-d900-41dd-afd9-40c7934d9628
+
+
+---
+
+## 12c-empservlet
+Output Link index.html -https://github.com/user-attachments/assets/563690cc-1170-49b4-8eef-44ef14da6a29
+Output Link insert.jsp -https://github.com/user-attachments/assets/e23de7eb-876d-4859-8c83-e2baffad7a7c
+Output Link report.jsp -https://github.com/user-attachments/assets/abc18e8e-4dda-48d5-bb93-bf73618dec1c
+
+
+---
