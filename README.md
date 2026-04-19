@@ -232,4 +232,10 @@ Output Link -https://github.com/user-attachments/assets/a57ca4a4-6ae0-4f09-86ea-
 
 ---
 
+## 11b-Mysql_Update
+Output Link -https://github.com/user-attachments/assets/68c7332d-d7ee-4987-b51a-9b6bbf333dcc
+
+
+---
+
 
