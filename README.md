@@ -208,4 +208,11 @@ Output Link for check.jsp-https://github.com/user-attachments/assets/be756193-8e
 
 ---
 
+## 9c-jsp session management
+Output Link for index.jsp- https://github.com/user-attachments/assets/b3482ea8-6d5f-41c7-9e94-bef74e2aa4e5
+Output Link for welcome.jsp-https://github.com/user-attachments/assets/0e413faf-168d-4179-b2a6-b198c1381e46
+Output Link for check.jsp-https://github.com/user-attachments/assets/7bb93542-29e1-41a9-82c3-c495c69dea0b
+
+---
+
 
