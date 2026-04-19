@@ -215,4 +215,16 @@ Output Link for check.jsp-https://github.com/user-attachments/assets/7bb93542-29
 
 ---
 
+## 10a-complete application
+Output Link for index.jsp- https://github.com/user-attachments/assets/05f90b9c-141b-4f79-a6b4-b695dde9d789
+Output Link for result.jsp-https://github.com/user-attachments/assets/f0c433e5-e116-44f9-88c8-59dbd60dedfd
+
+---
+
+## 10b-complete application
+Output Link for index.jsp- https://github.com/user-attachments/assets/94d93acb-7312-4d75-b894-5245db9e5d74
+Output Link for result.jsp-https://github.com/user-attachments/assets/ec18b564-8a84-4013-be7f-52cd5a0ad6e0
+
+---
+
 
