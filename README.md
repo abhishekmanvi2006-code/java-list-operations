@@ -201,4 +201,11 @@ Output Link for servler server-https://github.com/user-attachments/assets/2c0b35
 
 ---
 
+## 9b-jsp session management
+Output Link for index.jsp- https://github.com/user-attachments/assets/fe831e52-e886-4809-9ca8-e507f61e8fac
+Output Link for welcome.jsp-https://github.com/user-attachments/assets/15c9e14c-39f5-4707-a366-8b9ea5b206a4
+Output Link for check.jsp-https://github.com/user-attachments/assets/be756193-8e22-41f6-8836-89f97d9b4efc
+
+---
+
 
